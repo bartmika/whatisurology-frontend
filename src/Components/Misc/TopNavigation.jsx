@@ -18,15 +18,15 @@ function TopNavigation() {
                           className="w3-bar-item w3-large"
                            tabIndex={tabIndex}>Close &times;</button>
 
-                   <a href="/introduction" className="w3-bar-item w3-button w3-text-black" tabIndex={tabIndex}>
+                   <Link to="/introduction" className="w3-bar-item w3-button w3-text-black" tabIndex={tabIndex} onClick={onHamburgerClick}>
                        <i className="fa fa-video-camera" aria-hidden="true"></i>&nbsp;Introduction
-                   </a>
-                   <a href="/training" className="w3-bar-item w3-button w3-text-black" tabIndex={tabIndex}>
+                   </Link>
+                   <Link to="/training" className="w3-bar-item w3-button w3-text-black" tabIndex={tabIndex} onClick={onHamburgerClick}>
                        <i className="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;Training
-                   </a>
-                   <a href="/about" className="w3-bar-item w3-button w3-text-black" tabIndex={tabIndex}>
+                   </Link>
+                   <Link to="/about" className="w3-bar-item w3-button w3-text-black" tabIndex={tabIndex} onClick={onHamburgerClick}>
                        <i className="fa fa-user-circle-o" aria-hidden="true"></i>&nbsp;About
-                   </a>
+                   </Link>
                 </div>}
 
                 <div className="w3-bar w3-xxlarge">

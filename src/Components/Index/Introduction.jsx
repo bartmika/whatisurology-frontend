@@ -16,41 +16,53 @@ function Introduction() {
                             {/* https://www.youtube.com/playlist?list=PLxY-SR74mq6F4128UaMhNk0gH8dtcP0Ql */}
                             <h1 className="w3-text-blue">What is Urology?</h1>
 
-                            <strong>01 - What Is Urology - INTRODUCTION</strong>
+                            <h3>01 INTRODUCTION</h3>
                             <YoutubeEmbed embedId="cEMcnE3MQ6w" />
+                            <br />
 
-                            <strong>02 - What Is Urology - BLEND OF SURGERY AND MEDICINE</strong>
+                            <h3>02 BLEND OF SURGERY AND MEDICINE</h3>
                             <YoutubeEmbed embedId="4_XMrQi1nAY" />
+                            <br />
 
-                            <strong>03 - What Is Urology - TECHNOLOGY</strong>
+                            <h3>03 - What Is Urology - TECHNOLOGY</h3>
                             <YoutubeEmbed embedId="e_zszjLYO_I" />
+                            <br />
 
-                            <strong>04 - What Is Urology - SCOPE OF UROLOGY</strong>
+                            <h3>04 - What Is Urology - SCOPE OF UROLOGY</h3>
                             <YoutubeEmbed embedId="aWCNQzUhbWQ" />
+                            <br />
 
-                            <strong>05 - What Is Urology - UROLOGY ELECTIVES FOR EVERYONE</strong>
+                            <h3>05 - What Is Urology - UROLOGY ELECTIVES FOR EVERYONE</h3>
                             <YoutubeEmbed embedId="ClcuM0vWWbY" />
+                            <br />
 
-                            <strong>06 - What Is Urology - ADVICE</strong>
+                            <h3>06 - What Is Urology - ADVICE</h3>
                             <YoutubeEmbed embedId="NrSXyocjw64" />
+                            <br />
 
-                            <strong>07 - What Is Urology - GETTING EXPOSURE</strong>
+                            <h3>07 - What Is Urology - GETTING EXPOSURE</h3>
                             <YoutubeEmbed embedId="vyhkozYlI5E" />
+                            <br />
 
-                            <strong>08 - What Is Urology - TYPICAL DAY OF THE RESIDENT</strong>
+                            <h3>08 - What Is Urology - TYPICAL DAY OF THE RESIDENT</h3>
                             <YoutubeEmbed embedId="AE2UDNktKos" />
+                            <br />
 
-                            <strong>09 - What Is Urology - JOB SATISFACTION</strong>
+                            <h3>09 - What Is Urology - JOB SATISFACTION</h3>
                             <YoutubeEmbed embedId="YGNPHbvkQx0" />
+                            <br />
 
-                            <strong>10 - What Is Urology - LIFESTYLE OF A UROLOGIST</strong>
+                            <h3>10 - What Is Urology - LIFESTYLE OF A UROLOGIST</h3>
                             <YoutubeEmbed embedId="3nXGodYAbAI" />
+                            <br />
 
-                            <strong>11 - What Is Urology - RESEARCH</strong>
+                            <h3>11 - What Is Urology - RESEARCH</h3>
                             <YoutubeEmbed embedId="f5ZsF14ZM6w" />
+                            <br />
 
-                            <strong>12 - What Is Urology - UROLOGICAL PERSONALITY</strong>
+                            <h3>12 - What Is Urology - UROLOGICAL PERSONALITY</h3>
                             <YoutubeEmbed embedId="lQNSL-Im8Ac" />
+                            <br />
                         </div>
                     </div>
                 </div>
